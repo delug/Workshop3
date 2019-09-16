@@ -2,7 +2,7 @@
 
 # Data Science Techniques and Algorithms
 
-This workshop will cover some of the best known and most common algorithms for general data science, ranging from Principal Component Analysis to K-Nearest Neighbors. Emphasis will be placed on the *process* and *pipeline* that one may follow while encountering a new data science project.
+This workshop will cover some of the most common algorithms for general data science and the best practices that go along with data science as a whole. Specifically, we'll discuss feature engineering, cover a range of important algorithms and techniques such as Cross Validation, Principal Component Analysis, and K-Nearest Neighbors. Emphasis will be placed on the *process* and *pipeline* that one may follow while encountering a new data science project.
 # Sign Up
 
 Please fill the sign-up sheet below
