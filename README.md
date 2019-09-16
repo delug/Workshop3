@@ -2,15 +2,11 @@
 
 # Data Science Techniques and Algorithms
 
-This workshop will cover material ranging from what a vector is all the way to L<sup>p</sup> norms, loss functions, and gradient descent!
-We want to emphasize that a strong math background is not required for this workshop, as we'll be presenting the material in a beginner
-oriented, hands-on way. That means that we will introduce material both in terms of what you may code up in any given project, and the abstract math
-objects which represent them. In the simplest case, a vector can be described as a 1D array, but that's not enough to justify many of the
-techniques employed in DL. In order to extend that, we will dive into the math that powers the code.
+This workshop will cover some of the best known and most common algorithms for general data science, ranging from Principal Component Analysis to K-Nearest Neighbors.
 # Sign Up
 
 Please fill the sign-up sheet below
-https://forms.gle/DV2dQ7ghQSvYWsEG7
+https://forms.gle/cVtJpZYyQNsJDKqM9
 
 # Installation
 
@@ -28,7 +24,7 @@ Before coming to the workshop, please ensure that you have the following softwar
 
 1) Python   (We recommend downloading Python along with Anaconda: https://www.anaconda.com/distribution/)
 2) Jupyter  (https://jupyter.org/install)
-3) Numpy    (In command line, enter: `pip install --user numpy`)
+3) SKlearn    (In conda, enter: `conda install scikit-learn`)
 4) Git      (https://git-scm.com/downloads)
 
 
