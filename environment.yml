@@ -4,8 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - numpy
-  - sklearn
+  - scikit-learn
   - matplotlib
   - pandas
-  - math
   - seaborn
