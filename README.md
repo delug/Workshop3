@@ -26,7 +26,7 @@ Before coming to the workshop, please ensure that you have the following softwar
 2) Jupyter  (https://jupyter.org/install)
 3) SKlearn    (In conda, enter: `conda install scikit-learn`)
 4) Git      (https://git-scm.com/downloads)
-
+5) Pandas (In conda, enter: `conda install pandas`)
 
 
 # Feedback
