@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delug/Workshop2/master)
 
-# The Mathematics Behind Data Science
+# Data Science Techniques and Algorithms
 
 This workshop will cover material ranging from what a vector is all the way to L<sup>p</sup> norms, loss functions, and gradient descent!
 We want to emphasize that a strong math background is not required for this workshop, as we'll be presenting the material in a beginner
@@ -15,7 +15,7 @@ https://forms.gle/DV2dQ7ghQSvYWsEG7
 # Installation
 
 1. While in your command line, move to a directory that you want to clone the workshop into.
-2. Simply type `git clone https://github.com/delug/Workshop2.git` in your command line to clone the repository
+2. Simply type `git clone https://github.com/delug/Workshop3.git` in your command line to clone the repository
 3. Run `jupyter notebook` and navigate to where you cloned the workshop repository
 4. Open the notebook and enjoy!
 
