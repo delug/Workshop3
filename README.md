@@ -1,21 +1,17 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delug/Workshop2/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delug/Workshop3/master)
 
-# The Mathematics Behind Data Science
+# Data Science Techniques and Algorithms
 
-This workshop will cover material ranging from what a vector is all the way to L<sup>p</sup> norms, loss functions, and gradient descent!
-We want to emphasize that a strong math background is not required for this workshop, as we'll be presenting the material in a beginner
-oriented, hands-on way. That means that we will introduce material both in terms of what you may code up in any given project, and the abstract math
-objects which represent them. In the simplest case, a vector can be described as a 1D array, but that's not enough to justify many of the
-techniques employed in DL. In order to extend that, we will dive into the math that powers the code.
+This workshop will cover some of the most common algorithms for general data science and the best practices that go along with data science as a whole. Specifically, we'll discuss feature engineering, cover a range of important algorithms and techniques such as Cross Validation, Principal Component Analysis, and K-Nearest Neighbors. Emphasis will be placed on the *process* and *pipeline* that one may follow while encountering a new data science project.
 # Sign Up
 
 Please fill the sign-up sheet below
-https://forms.gle/DV2dQ7ghQSvYWsEG7
+https://forms.gle/cVtJpZYyQNsJDKqM9
 
 # Installation
 
 1. While in your command line, move to a directory that you want to clone the workshop into.
-2. Simply type `git clone https://github.com/delug/Workshop2.git` in your command line to clone the repository
+2. Simply type `git clone https://github.com/delug/Workshop3.git` in your command line to clone the repository
 3. Run `jupyter notebook` and navigate to where you cloned the workshop repository
 4. Open the notebook and enjoy!
 
@@ -28,9 +24,9 @@ Before coming to the workshop, please ensure that you have the following softwar
 
 1) Python   (We recommend downloading Python along with Anaconda: https://www.anaconda.com/distribution/)
 2) Jupyter  (https://jupyter.org/install)
-3) Numpy    (In command line, enter: `pip install --user numpy`)
+3) SKlearn    (In conda, enter: `conda install scikit-learn`)
 4) Git      (https://git-scm.com/downloads)
-
+5) Pandas (In conda, enter: `conda install pandas`)
 
 
 # Feedback
