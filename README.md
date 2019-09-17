@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg =100x20)](https://mybinder.org/v2/gh/delug/Workshop3/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delug/Workshop3/master)
 
 # Data Science Techniques and Algorithms
 
