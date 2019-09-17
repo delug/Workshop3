@@ -27,6 +27,7 @@ Before coming to the workshop, please ensure that you have the following softwar
 3) SKlearn    (In conda, enter: `conda install scikit-learn`)
 4) Git      (https://git-scm.com/downloads)
 5) Pandas (In conda, enter: `conda install pandas`)
+6) Seaborn (In conda, enter: 'conda install seaborn')
 
 
 # Feedback
